@@ -1,4 +1,4 @@
 # Digital Humanitarian Community
-![Alt text](../media/DigitHarium.png)
-![Alt text](../media/CyberHenriDunant.png)
+![DigitHarium](DigitHarium.png)
+![CyberHenriDunant](CyberHenriDunant.png)
 ## Hackathon 2024
