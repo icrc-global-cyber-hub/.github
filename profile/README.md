@@ -6,8 +6,8 @@ Digital and especially FOSS tools offer humanitarian organizations like the ICRC
 
 The ICRC would like to engage with with broader tech and developer communities to seek their support in the ICRC’s efforts to deliver a set of neutral and independent, safe, and secure software tools for the benefit of affected people while contributing to the principled and responsible digital transformation of humanitarian action.
 ## Current Projects
-* [Offline-Capable OpenMRS Android Application](https://github.com/icrc-global-cyber-hub/seeking-kotlin-dev-openmrs-fhir)
-* [Humanitarian Identity and Access Management Integrations (HIAMI)](https://github.com/icrc-global-cyber-hub/humanitarian-identity-access-management-integrations)
+* [Offline-Capable OpenMRS Android Application](https://github.com/icrc-global-cyber-hub/seeking-kotlin-dev-openmrs-fhir) - Check the current [issues](https://github.com/icrc-global-cyber-hub/seeking-kotlin-dev-openmrs-fhir) and contribute.
+* [Humanitarian Identity and Access Management Integrations (HIAMI)](https://github.com/icrc-global-cyber-hub/humanitarian-identity-access-management-integrations) - Check the current issues *(Coming soon)* and contribute.
 * More projects coming soon...
 
 ![CyberHenriDunant](https://github.com/digitharium/.github/blob/main/profile/CyberHenriDunant.png?raw=true "CyberHenriDunant")
